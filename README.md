@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Rainfall Luo, a high school student and snovice developer.
+#### I'm RainSpark, a high school student and snovice developer.
 
 - 🌱 I’m currently learning **C++, Java, Python**
 - 🤔 I'm skilled at **C++, VBA**
