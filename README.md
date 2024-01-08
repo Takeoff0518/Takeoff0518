@@ -2,7 +2,7 @@
 
 #### I'm RainSpark, a high school student and snovice developer.
 
-- 🌱 I’m currently learning **C++, Java, Python**
+- 🌱 I’m currently learning **C++, Kotlin, Java, Python**
 - 🤔 I'm skilled at **C++, VBA**
 - 📫 How to reach me **takeoff37808@gmail.com**
 - ⚡ My Minecraft Server **[703143832](https://jq.qq.com/?_wv=1027&k=ci7GrHKO)** (QQ Group)
